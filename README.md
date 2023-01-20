@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @remedanM
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning full stack and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @remedan,
+- 👀 I’m interested in solving problem and cyberworld
+- 🌱 learning full stack, python and figuring out how to get in programming/tech 
+- 📫 if you've any thing to say you can reach me remedanmohammedzeyn19@gmail.com
 
 <!---
 remedanM/remedanM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
